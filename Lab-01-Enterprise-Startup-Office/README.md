@@ -20,3 +20,24 @@ A Mumbai-based startup company required a secure and scalable office network inf
 | 20 | Finance | 192.168.20.0/24 | 192.168.20.1 |
 | 30 | IT | 192.168.30.0/24 | 192.168.30.1 |
 | 99 | Server | 192.168.99.0/24 | 192.168.99.1 |
+
+## Network Topology
+
+![Topology](topology.png)
+
+## Verification
+
+### VLAN Verification
+![VLAN](screenshots/vlan_brief.png)
+
+### Trunk Verification
+![Trunk](screenshots/trunk.png)
+
+### DHCP Verification
+![DHCP](screenshots/dhcp_successfull.png)
+
+### SSH Verification
+![SSH](screenshots/ssh_login.png)
+
+### PINT TEST BETWEEN DIFFERENT VLAN's
+![SSH](screenshots/ping_test.png)
