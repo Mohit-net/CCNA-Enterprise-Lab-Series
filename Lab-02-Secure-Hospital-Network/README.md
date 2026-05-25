@@ -153,19 +153,19 @@ www.punehospital.local
 # Screenshots
 
 ## Network Topology
-(Add topology screenshot here)
+![VLAN](screenshots/topology.png)
 
 ## DHCP Verification
-(Add DHCP screenshot here)
+![VLAN](screenshots/dhcp.png)
 
 ## Voice VLAN Configuration
-(Add IP phone screenshot here)
+![VLAN](screenshots/vlan.png)
 
 ## ACL Testing
-(Add ACL verification screenshot here)
+![VLAN](screenshots/ACL-security.png)
 
 ## Hospital Web Portal
-(Add website screenshot here)
+![VLAN](screenshots/web-portal.png)
 
 ---
 
