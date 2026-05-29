@@ -10,6 +10,26 @@ The network was designed to demonstrate enterprise networking concepts including
 
 ## Network Architecture
 
+---
+
+## Network Topology
+
+![Multi-Branch Banking WAN Topology](screenshots/topology.png)
+
+The topology simulates a multi-branch banking enterprise connecting Mumbai Headquarters, Pune Branch, and Nashik Branch through a redundant WAN infrastructure.
+
+Key components include:
+
+- Layer 3 Core Switch at Mumbai HQ
+- Dual WAN Routers for headquarters connectivity
+- OSPF Area 0 for dynamic routing
+- Centralized DHCP/DNS Services
+- Banking Portal, Syslog, and Backup Servers
+- Employee, Management, Guest, Voice, ATM, CCTV, and Management VLANs
+- Branch connectivity with dynamic route exchange and failover capabilities
+
+---
+
 ### Headquarters (Mumbai)
 
 * Layer 3 Core Switch
